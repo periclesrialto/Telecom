@@ -1,4 +1,4 @@
-%% Lista de atividades 02
+%% Fourier Series
 clc
 clear all
 %(2.a-b)Encontre o per?odo T0 de cada um dos sinais
